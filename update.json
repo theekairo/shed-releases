@@ -1,7 +1,7 @@
 {
-  "versionCode": 11,
-  "versionName": "1.3.3",
-  "apkUrl": "https://github.com/kair4k/shed-releases/releases/download/v1.3.3/Shed.apk",
-  "sha256": "ea22878f48df11fadcc4e3ef54296d335826d0d40f6f4660bfe7daa539ca5512",
-  "notes": "Чёрно-белая иконка календаря, чёрная тема, скруглённые карточки, метка изменений над кабинетом и автоматическая проверка версии раз в 48 часов."
+  "versionCode": 12,
+  "versionName": "1.3.4",
+  "apkUrl": "https://github.com/kair4k/shed-releases/releases/download/v1.3.4/Shed.apk",
+  "sha256": "207b45dc6e8eb9eed72a3c5d2e0bbb12f1b397c1ae79daacb8db79e0de726390",
+  "notes": "Ссылка на скачивание приложения для Android под расписанием и статусом актуальности."
 }
