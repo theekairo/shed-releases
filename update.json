@@ -1,7 +1,7 @@
 {
-  "versionCode": 14,
-  "versionName": "1.4.0",
-  "apkUrl": "https://github.com/theekairo/shed-releases/releases/download/v1.4.0/Shed.apk",
-  "sha256": "4dd63cb7a0a907013bbedf067bc6b5b700e4190c3f35a4768110bf60d630d7a8",
+  "versionCode": 15,
+  "versionName": "1.4.1",
+  "apkUrl": "https://github.com/theekairo/shed-releases/releases/download/v1.4.1/Shed.apk",
+  "sha256": "89c45f7bbe788cca159a8e342450ac13eab8880357ef6c603f074ea21dd23dd2",
   "notes": "Фоновая проверка изменений утром, днём и вечером с уведомлениями. При проблемах с сайтом приложение подскажет переключить Wi-Fi и мобильную сеть."
 }
