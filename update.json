@@ -1,7 +1,7 @@
 {
-  "versionCode": 15,
-  "versionName": "1.4.1",
-  "apkUrl": "https://github.com/theekairo/shed-releases/releases/download/v1.4.1/Shed.apk",
-  "sha256": "89c45f7bbe788cca159a8e342450ac13eab8880357ef6c603f074ea21dd23dd2",
-  "notes": "Фоновая проверка изменений утром, днём и вечером с уведомлениями. При проблемах с сайтом приложение подскажет переключить Wi-Fi и мобильную сеть."
+  "versionCode": 16,
+  "versionName": "1.4.2",
+  "apkUrl": "https://github.com/theekairo/shed-releases/releases/download/v1.4.2/Shed.apk",
+  "sha256": "5b868fd6eaa6ba5f49070a8b609147cc270dd22274082de1791b1137d80296a1",
+  "notes": "Обновлено постоянное расписание ПР126 на обе недели по данным колледжа от 2 октября. Исправлены порядок пар, кабинеты и время. После обновления приложение проверяет замены и обновляет сохранённое расписание."
 }
