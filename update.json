@@ -1,7 +1,7 @@
 {
-  "versionCode": 18,
-  "versionName": "1.4.4",
-  "apkUrl": "https://github.com/theekairo/shed-releases/releases/download/v1.4.4/Shed.apk",
-  "sha256": "8fc214819ebd9e93e45f92da44fcffd9630600c9b9b29f123869c874e3c3237e",
-  "notes": "Оптимизирована загрузка изменений и добавлен прогресс по датам. При сбоях сохраняются последние проверенные замены. Проверка новой версии при каждом входе в приложение."
+  "versionCode": 19,
+  "versionName": "1.4.5",
+  "apkUrl": "https://github.com/theekairo/shed-releases/releases/download/v1.4.5/Shed.apk",
+  "sha256": "8b1e7a358b707b77d4daffb6a22df9359113dd746a87d70036ab1463ef46fe8d",
+  "notes": "Быстрая проверка изменений только на сегодня и завтра. Сохранённые замены остальных дат и недельные вкладки сохранены. Без новых подписей."
 }
