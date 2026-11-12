@@ -1,7 +1,7 @@
 {
-  "versionCode": 20,
-  "versionName": "1.4.6",
-  "apkUrl": "https://github.com/theekairo/shed-releases/releases/download/v1.4.6/Shed.apk",
-  "sha256": "bdf9b7462ef15022ee13302aa93f13e971d035fcabedf34d53873afed1baf7ec",
-  "notes": "Выбор периода проверки изменений в настройках: сегодня и завтра, текущая неделя или две недели. Выбор сохраняется для ручных и фоновых проверок."
+  "versionCode": 25,
+  "versionName": "1.5.0",
+  "apkUrl": "https://github.com/theekairo/shed-releases/releases/download/v1.5.0/Shed.apk",
+  "sha256": "4158e650716aa9590d5702d5c96e75231597ef5df42cbd8558ac1d56d79d4da3",
+  "notes": "Новое чёрно-белое оформление по Shed iOS. Дневник.ру — единственный источник. Подробные уведомления об изменениях и виджет ближайшей пары."
 }
