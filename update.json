@@ -1,7 +1,7 @@
 {
-  "versionCode": 25,
-  "versionName": "1.5.0",
-  "apkUrl": "https://github.com/theekairo/shed-releases/releases/download/v1.5.0/Shed.apk",
-  "sha256": "4158e650716aa9590d5702d5c96e75231597ef5df42cbd8558ac1d56d79d4da3",
-  "notes": "Новое чёрно-белое оформление по Shed iOS. Дневник.ру — единственный источник. Подробные уведомления об изменениях и виджет ближайшей пары."
+  "versionCode": 26,
+  "versionName": "1.6.0",
+  "apkUrl": "https://github.com/theekairo/shed-releases/releases/download/v1.6.0/Shed.apk",
+  "sha256": "d02403544b1e65fc42a33b11e4981bbc20cf23617adcadd71c348c3f46900df1",
+  "notes": "Выбор группы и других школ Дневник.ру, отсчёт до начала и конца пары, настройка режима звонков. Расписание загружается быстрее, приложение занимает меньше места."
 }
