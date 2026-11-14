@@ -1,7 +1,7 @@
 {
-  "versionCode": 27,
-  "versionName": "1.6.1",
-  "apkUrl": "https://github.com/theekairo/shed-releases/releases/download/v1.6.1/Shed.apk",
-  "sha256": "ee81f9ca08d4ecc398704a30e940417b2dabf08b7718800b8d401de593e29338",
-  "notes": "Обновлён виджет: подстраивается под размер и показывает следующие занятия. Добавлен показ обеих подгрупп сразу."
+  "versionCode": 28,
+  "versionName": "1.6.2",
+  "apkUrl": "https://github.com/theekairo/shed-releases/releases/download/v1.6.2/Shed.apk",
+  "sha256": "65279fbb4d0c61fdbe9947ff7c74613a97ef38ebf8e9bcdf8f0345860d81ef29",
+  "notes": "Убрана привязка к конкретной группе и школе. Расписание выбирается после входа в Дневник.ру, время занятий берётся с сайта."
 }
