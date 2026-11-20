@@ -1,9 +1,9 @@
 {
-  "versionCode": 29,
+  "versionCode": 30,
   "versionName": "1.6.2",
   "ipaURL": "https://github.com/theekairo/shed-releases/releases/download/ios-v1.6.2/Shed.ipa",
-  "sha256": "4cee5c32c747920e34ba60eb2b38d326a6d6d776599427aeae3d24e233325099",
+  "sha256": "17abd630cbbf3cce9fc879be75ff0ea942002ae7e0d16f16159a75d1eea73513",
   "minimumOSVersion": "26.0",
   "requiresSigning": true,
-  "notes": "Упростили вход, поправили выбор группы. Расписание открывается на сегодня и показывает только текущий и будущие дни."
+  "notes": "Вернули вчерашний день и добавили перелистывание расписания свайпами по экрану."
 }
