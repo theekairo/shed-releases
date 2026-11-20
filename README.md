@@ -5,6 +5,6 @@ Shed — расписание занятий из Дневник.ру. Пары,
 ## Скачать
 
 - [Android — APK](https://github.com/theekairo/shed-releases/releases/download/v1.6.2/Shed.apk)
-- [iOS — IPA](https://github.com/theekairo/shed-releases/releases/download/ios-v1.1.0/Shed.ipa) · iOS 26+
+- [iOS — IPA](https://github.com/theekairo/shed-releases/releases/download/ios-v1.6.2/Shed.ipa) · iOS 26+
 
 [Все версии и изменения](https://github.com/theekairo/shed-releases/releases)
